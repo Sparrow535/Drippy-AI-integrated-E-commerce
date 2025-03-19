@@ -5,6 +5,7 @@ export default {
     extend: {
       colors: {
         customGreen: "#2B4035", // Your custom green color
+        customColor2: "#EEE7DC", // Custom button color
       },
     },
   },

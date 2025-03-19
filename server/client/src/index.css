@@ -1,7 +1,7 @@
+@import url("https://fonts.cdnfonts.com/css/didot-2");
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-@import url("https://fonts.cdnfonts.com/css/didot-2");
 
 h1 {
   font-family: Didot, "Didot LT STD", "Hoefler Text", Garamond,
